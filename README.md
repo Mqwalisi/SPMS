@@ -46,3 +46,13 @@ This is a command-line-based Smart Parking Management System that simulates real
 3. Cancel Reservation
 4. View My Reservations
 5. Logout
+
+🧰 Technologies Used
+
+Language: C# 
+
+IDE: Visual Studio 2022 
+
+📌 Status
+
+This is a working prototype built to practice object-oriented programming and simulate a real-world parking system in a terminal environment.
